@@ -1,0 +1,18 @@
+{
+    "NeoRpcUrl":"http://localhost:20332",
+    "ControllerAddress": "0x0120f4c5e0a129d33647e19207d64b417ecaeee3",
+    "LiquidatorList": [
+        ""
+    ],
+    "MySqlUrl":"localhost:3306",
+    "MySqlDatabaseName": "cloud",
+    "MySqlUserName":"root",
+    "MySqlPassword":"cloud8little@@@",
+    "CapturedTxTable":"borrower_tx_info",
+    "CaptureEvents": ["Borrow"],   
+    "TokenPriority": [
+        "0x3f861747c730c856a3f8e9477d8cc5dc3de7b6ea",
+        "0xfa401228b85b3be825a2b6187a1f7ec10fdd6207"
+    ],
+    "OracleAddress": ""  
+}
